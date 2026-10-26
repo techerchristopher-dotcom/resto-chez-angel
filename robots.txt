@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chez-angel.rentanoo.com/sitemap.xml
